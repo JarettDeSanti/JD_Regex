@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Title
 
 Introductory paragraph (replace this with your text)
 
